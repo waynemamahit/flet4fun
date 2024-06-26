@@ -1,0 +1,5 @@
+components/__pycache__/**/*
+layouts/__pycache__/**/*
+pages/__pycache__/**/*
+stores/__pycache__/**/*
+__pycache__/**/*
